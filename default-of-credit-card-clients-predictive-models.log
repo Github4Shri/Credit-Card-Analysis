@@ -1,0 +1,128 @@
+9.9s 1 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+9.9s 2 return f(*args, **kwds)
+9.9s 3 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+9.9s 4 return f(*args, **kwds)
+9.9s 5 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+10.1s 6 [NbConvertApp] Executing notebook with kernel: python3
+313.1s 7 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 8 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 9 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 10 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 11 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 12 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 13 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 14 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 15 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 16 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 17 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+313.1s 18 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.2s 19 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+315.8s 20 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 21 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 22 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 23 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 24 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 25 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 26 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 27 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 28 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 29 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 30 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+315.8s 31 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.2s 32 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+317.6s 33 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+317.7s 34 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 35 [LightGBM] [Warning] [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 36 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 37 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 38 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 39 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 40 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 41 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 42 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 43 Met negative value in categorical features, will convert it to NaN
+317.7s 44 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+317.7s 45 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.1s 46 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+319.2s 47 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+319.3s 48 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+319.6s 49 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 50 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 51 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 52 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 53 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 54 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 55 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 56 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 57 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 58 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 59 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+319.6s 60 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.2s 61 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+321.3s 62 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 63 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 64 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 65 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 66 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 67 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 68 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 69 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 70 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 71 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 72 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+321.3s 73 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+322.5s 74 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.6s 75 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.7s 76 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.7s 77 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.8s 78 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.8s 79 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+322.9s 80 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+323.0s 81 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 82 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 83 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 84 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 85 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 86 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 87 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 88 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 89 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 90 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 91 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+323.0s 92 [LightGBM] [Warning] Met negative value in categorical features, will convert it to NaN
+324.3s 93 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+324.6s 94 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+324.6s 95 [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+325.3s 96 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+325.3s 97 return f(*args, **kwds)
+325.3s 98 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+325.3s 99 return f(*args, **kwds)
+326.4s 100 [NbConvertApp] Writing 574868 bytes to __notebook__.ipynb
+331.5s 101 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+331.5s 102 return f(*args, **kwds)
+331.5s 103 /opt/conda/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+331.5s 104 return f(*args, **kwds)
+331.5s 105 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+332.8s 106 [NbConvertApp] Support files will be in __results___files/
+332.8s 107 [NbConvertApp] Making directory __results___files
+332.8s 108 [NbConvertApp] Making directory __results___files
+332.8s 109 [NbConvertApp] Making directory __results___files
+332.8s 110 [NbConvertApp] Making directory __results___files
+332.8s 111 [NbConvertApp] Making directory __results___files
+332.8s 112 [NbConvertApp] Making directory __results___files
+332.8s 113 [NbConvertApp] Making directory __results___files
+332.8s 114 [NbConvertApp] Making directory __results___files
+332.8s 115 [NbConvertApp] Making directory __results___files
+332.8s 116 [NbConvertApp] Making directory __results___files
+332.8s 117 [NbConvertApp] Making directory __results___files
+332.8s 118 [NbConvertApp] Making directory __results___files
+332.8s 119 [NbConvertApp] Making directory __results___files
+332.8s 120 [NbConvertApp] Making directory __results___files
+332.8s 121 [NbConvertApp] Making directory __results___files
+332.8s 122 [NbConvertApp] Making directory __results___files
+332.8s 123 [NbConvertApp] Making directory __results___files
+332.8s 124 [NbConvertApp] Making directory __results___files
+332.8s 125 [NbConvertApp] Making directory __results___files
+332.8s 126 [NbConvertApp] Making directory __results___files
+332.8s 127 [NbConvertApp] Making directory __results___files
+332.8s 128 [NbConvertApp] Writing 450251 bytes to __results__.html
